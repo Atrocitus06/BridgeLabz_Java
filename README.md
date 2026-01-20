@@ -41,3 +41,5 @@
 • 14-Jan-2026 (Wednesday): Started learning Object Oriented Programming basics , covering topics such as class , object and constructors.
 
 • 16-Jan-2026 (Friday): Completed topics such as keywords, inheritance and design principles.
+
+• 19-Jan-2026 (Monday): Started with Linked List and attended review successfully.
