@@ -43,3 +43,5 @@
 • 16-Jan-2026 (Friday): Completed topics such as keywords, inheritance and design principles.
 
 • 19-Jan-2026 (Monday): Started with Linked List and attended review successfully.
+
+• 20-Jan-2026 (Tuesday): Completed Linked List and started with Stacks and Queues.
